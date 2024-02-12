@@ -7,7 +7,7 @@ nav_order: 2
 
 # Machine-learning, inside the black-box
 
-<iframe width="250" height="200"
+<iframe width="550" height="400"
     src="https://youtube.com/embed/W1zxOj6895I">
 </iframe>
 
