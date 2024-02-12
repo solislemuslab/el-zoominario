@@ -95,20 +95,20 @@ Originally from Mexico City, Claudia Sol&iacute;s-Lemus is an assistant professo
     </div>
 </div>
 <br>
-Born and raised in Montreal, Emile Gluck-Thaler is an assistant professor in the <a href="https://plantpath.wisc.edu/">Department of Plant Pathology</a> at the <a href="http://www.wisc.edu">University of Wisconsin-Madison</a> and a Discovery Fellow at the <a href="https://wid.wisc.edu/">Wisconsin Institute for Discovery</a>. 
+Born and raised in Mexico City, Daniel Pimentel-Alarcon is an assistant professor in the Department of Biostatistics and Medical Informatics at the <a href="http://www.wisc.edu">University of Wisconsin-Madison</a> and at the <a href="https://wid.wisc.edu/">Wisconsin Institute for Discovery</a>. 
 
 <div class="container">
     <div class="row">
         <div class="column">
-            <a href="pics/Gluck-Thaler_1_square.jpg">
-               <img src="https://crsl4.github.io/methods-bio-data-worshop//pics/Gluck-Thaler_1_square.jpg" width="150"
-                  title="Emile Gluck-Thaler" alt="Emile Gluck.Thaler"/></a>
+            <a href="pics/daniel.png">
+               <img src="https://solislemuslab.github.io/el-zoominario//pics/daniel.png" width="150"
+                  title="Daniel Pimentel-Alarcon" alt="Daniel Pimentel.Alarcon"/></a>
         </div>
         <div class="column">
             Pronouns: he/him <br/>
-            <a href="https://plantpath.wisc.edu/faculty/emile-gluck-thaler/">Faculty website</a><br/>
-            <a href="https://scholar.google.com/citations?user=0CQpHksAAAAJ&hl=en">Google scholar</a><br/>
-            <a href="https://github.com/egluckthaler">GitHub</a><br/>
+            <a href="https://danielpimentel.github.io/index.html">Lab website</a><br/>
+            <a href="https://scholar.google.com/citations?user=Q2U7G6oAAAAJ&hl=en">Google scholar</a><br/>
+            <a href="https://github.com/danielpimentel">GitHub</a><br/>
         </div>
     </div>
 </div>
