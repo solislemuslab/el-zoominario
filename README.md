@@ -1,6 +1,6 @@
 # El Zoominario
 
-Official website:[https://solislemuslab.github.io/el-zoominario/](https://solislemuslab.github.io/el-zoominario/)
+Official website: [https://solislemuslab.github.io/el-zoominario/](https://solislemuslab.github.io/el-zoominario/)
 
 **What is El Zoominario?**
 It is a seminar series of scientific short talks (in English) given by Latinx in STEM. The goal is to increase visibility of Latinx people in STEM and inspire the next generation of Latinx scientists. The talks are meant to be accessible to the general audience.

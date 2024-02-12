@@ -6,16 +6,8 @@ nav_order: 1
 
 # El Zoominario
 
-<div class="navbar">
-    <div class="navbar-inner">
-        <ul class="nav">
-            <li><a href="#schedule">schedule</a></li>
-            <li><a href="#faq">faq</a></li>
-            <li><a href="https://www.tiktok.com/@latinxinstem">tiktok</a></li>
-            <li><a href="https://www.youtube.com/playlist?list=PL1AfUDnwvYbOA9rfrvyA2nR9SR0VYbklx">youtube</a></li>
-        </ul>
-    </div>
-</div>
+| <a href="#schedule">schedule</a> | <a href="#faq">faq</a> | <a href="https://www.tiktok.com/@latinxinstem">tiktok</a> | <a href="https://www.youtube.com/playlist?list=PL1AfUDnwvYbOA9rfrvyA2nR9SR0VYbklx">youtube</a> | 
+| :---   | :--- | :--- | :---  | 
 
 <div style="text-align:center"><img src="assets/pics/Black-with-Ellipse.png" width="450"/></div>
 
