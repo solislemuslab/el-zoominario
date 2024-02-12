@@ -17,7 +17,7 @@ nav_order: 1
     </div>
 </div>
 
-<div style="text-align:center"><img src="pics/Black-with-Ellipse.png" width="450"/></div>
+<div style="text-align:center"><img src="assets/pics/Black-with-Ellipse.png" width="450"/></div>
 
 # Schedule 
 
@@ -86,7 +86,7 @@ Originally from Mexico City, Claudia Sol&iacute;s-Lemus is an assistant professo
 <div class="container">
     <div class="row">
         <div class="column">
-            <a href="pics/claudiaSmall1.png">
+            <a href="assets/pics/claudiaSmall1.png">
             <img src="https://crsl4.github.io/methods-bio-data-worshop//pics/claudiaSmall1.png" width="150"
                   title="Claudia Sol&iacute;s-Lemus" alt="Claudia Sol&iacute;s.Lemus"/></a>
         </div>
@@ -106,7 +106,7 @@ Born and raised in Mexico City, Daniel Pimentel-Alarcon is an assistant professo
 <div class="container">
     <div class="row">
         <div class="column">
-            <a href="pics/daniel.png">
+            <a href="assets/pics/daniel.png">
                <img src="https://solislemuslab.github.io/el-zoominario//pics/daniel.png" width="150"
                   title="Daniel Pimentel-Alarcon" alt="Daniel Pimentel.Alarcon"/></a>
         </div>
