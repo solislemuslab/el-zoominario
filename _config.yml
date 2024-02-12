@@ -1,5 +1,6 @@
 remote_theme: just-the-docs/just-the-docs
 title: El Zoominario
+logo: assets/pics/Black-with-Ellipse.png
 exclude:
    - README.md
 aux_links:
