@@ -14,6 +14,8 @@ nav_order: 1
 
 # Schedule 
 
+Below is the full list of El Zoominario speakers, but the talks are separated by topic in the left menu.
+
 | Date | Country | Speaker | Title | YouTube | TikTok | TikTok intro |
 | :---   | :--- | :--- | :---  | :--- | :--- |
 | 2 Oct 2020 | ![](assets/pics/flags/mexico.png) | Daniel Pimentel-Alarcon | Machine-learning, inside the black-box  |[![youtube (653k)](assets/icons16/youtube.png)](https://youtu.be/W1zxOj6895I) | [![tiktok (653k)](assets/icons16/tiktok.png)](https://www.tiktok.com/@latinxinstem/video/7081420036396649771) | |
