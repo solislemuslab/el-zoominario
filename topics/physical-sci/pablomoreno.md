@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Volcanoes and Glaciation
-parent: Math/Engineering
+parent: Physical Sciences
 nav_order: 6
 ---
 
