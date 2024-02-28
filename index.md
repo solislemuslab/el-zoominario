@@ -48,7 +48,7 @@ Below is the full list of El Zoominario speakers, but the talks are separated by
 | 5 May 2023 | ![](assets/pics/flags/mexico.png) | Daniel Ojeda-Juarez | Understanding neurodegenerative diseases: From Alzheimer's to Mad Cow Disease | [![youtube (653k)](assets/icons16/youtube.png)](https://youtu.be/ezIPzfQOtmg) | | |
 | 1 Sep 2023 | ![](assets/pics/flags/mexico.png) | Michel Geovanni Santiago-Martinez | Can we find methane-producing microorganisms everywhere? | [![youtube (653k)](assets/icons16/youtube.png)](https://youtu.be/Rf0BrgU1KCc) | | |
 | 6 Oct 2023 | ![](assets/pics/flags/mexico.png) | Nahui Medina Chavez| Archaea: Earth's Ancient Microbial Architects | [![youtube (653k)](assets/icons16/youtube.png)](https://youtu.be/_RgCvUAEc38) | | |
-| 3 Nov 2023 | Lluvia Flores-Renteria | |
+| 3 Nov 2023 | ![](assets/pics/flags/mexico.png) | Lluvia Flores-Renteria | Plants withour borders: Genetic connectivity in ecologically and culturally important plants | [![youtube (653k)](assets/icons16/youtube.png)](https://youtu.be/lWHXxcGy0OM) | | |
 | 2 Feb 2024 | Hector Baños | |
 | 5 Apr 2024 | Juan Caicedo | |
 | 3 May 2024 | Rene Welch | |
