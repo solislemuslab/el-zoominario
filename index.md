@@ -6,6 +6,11 @@ nav_order: 1
 
 # El Zoominario
 
+<button type="button" onclick="window.location.href='#schedule';">schedule</button>
+<button type="button" onclick="window.location.href='#faq';">FAQ</button>
+<button type="button" onclick="window.location.href='https://www.tiktok.com/@latinxinstem';">tiktok</button>
+<button type="button" onclick="window.location.href='https://www.youtube.com/playlist?list=PL1AfUDnwvYbOA9rfrvyA2nR9SR0VYbklx';">youtube</button>
+
 | <a href="#schedule">schedule</a> | <a href="#faq">faq</a> |  
 | :---   | :--- | 
 |  <a href="https://www.tiktok.com/@latinxinstem">tiktok</a>  | <a href="https://www.youtube.com/playlist?list=PL1AfUDnwvYbOA9rfrvyA2nR9SR0VYbklx">youtube</a> |
