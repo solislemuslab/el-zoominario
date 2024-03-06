@@ -85,7 +85,7 @@ Originally from Mexico City, Claudia Sol&iacute;s-Lemus is an assistant professo
     <div class="row">
         <div class="column">
             <a href="assets/pics/claudiaSmall1.png">
-            <img src="https://crsl4.github.io/methods-bio-data-worshop//pics/claudiaSmall1.png" width="150"
+            <img src="assets/pics/claudiaSmall1.png" width="150"
                   title="Claudia Sol&iacute;s-Lemus" alt="Claudia Sol&iacute;s.Lemus"/></a>
         </div>
         <div class="column">
@@ -105,7 +105,7 @@ Born and raised in Mexico City, Daniel Pimentel-Alarcon is an assistant professo
     <div class="row">
         <div class="column">
             <a href="assets/pics/daniel.png">
-               <img src="https://solislemuslab.github.io/el-zoominario//pics/daniel.png" width="150"
+               <img src="assets/pics/daniel.png" width="150"
                   title="Daniel Pimentel-Alarcon" alt="Daniel Pimentel.Alarcon"/></a>
         </div>
         <div class="column">
