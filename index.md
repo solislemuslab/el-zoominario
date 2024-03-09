@@ -55,6 +55,7 @@ Below is the full list of El Zoominario speakers, but the talks are separated by
 | 5 Apr 2024 | Juan Caicedo | |
 | 3 May 2024 | Rene Welch | |
 | 6 Sep 2024 | Gustavo Ballen | |
+| 6 Dec 2024 | Melisa Carrasco McCaul | |
 
 
 # FAQ
