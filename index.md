@@ -52,9 +52,11 @@ Below is the full list of El Zoominario speakers, but the talks are separated by
 | 6 Oct 2023 | ![](assets/pics/flags/mexico.png) | Nahui Medina Chavez| Archaea: Earth's Ancient Microbial Architects | [![youtube (653k)](assets/icons16/youtube.png)](https://youtu.be/_RgCvUAEc38) | | |
 | 3 Nov 2023 | ![](assets/pics/flags/mexico.png) | Lluvia Flores-Renteria | Plants withour borders: Genetic connectivity in ecologically and culturally important plants | [![youtube (653k)](assets/icons16/youtube.png)](https://youtu.be/lWHXxcGy0OM) | | |
 | 2 Feb 2024 | ![](assets/pics/flags/mexico.png) | Hector Baños | Mathematics and DNA | [![youtube (653k)](assets/icons16/youtube.png)](https://youtu.be/eFrYzc3G0Wg) | | |
-| 5 Apr 2024 | Juan Caicedo | |
+| 5 Apr 2024 | ![](assets/pics/flags/colombia.png) | Juan Caicedo | Recognizing cellular activity with microscopy imaging | [![youtube (653k)](assets/icons16/youtube.png)](https://youtu.be/Br8BgmE_B2k) | | |
 | 3 May 2024 | Rene Welch | |
 | 6 Sep 2024 | Gustavo Ballen | |
+| 4 Oct 2024 |  | |
+| 1 Nov 2024 |  | |
 | 6 Dec 2024 | Melisa Carrasco McCaul | |
 
 
