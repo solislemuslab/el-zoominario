@@ -1,12 +1,14 @@
 ---
 layout: default
-title: El Zoominario Kids
+title: El Zoominarito
 nav_order: 7
 has_children: true
 has_toc: false
 ---
 
-# El Zoominario Kids
+# El Zoominarito
 
-Upcoming STEM learning resources for elementary and middle school students.
+STEM learning resources for elementary and middle school students.
 
+| Activity | Speaker | Level | Topic |
+| [Statisticians are Data Detectives]((https://solislemuslab.github.io/el-zoominario/topics/zoominario-kids/marbles.html)) | [Claudia Solis-Lemus](https://solislemuslab.github.io/) | Elementary/Middle | Math, Biology |
