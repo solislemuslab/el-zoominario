@@ -56,7 +56,7 @@ Below is the full list of El Zoominario speakers, but the talks are separated by
 | 3 May 2024 | Rene Welch | |
 | 6 Sep 2024 | Gustavo Ballen | |
 | 4 Oct 2024 |  | |
-| 1 Nov 2024 |  | |
+| 1 Nov 2024 | Ulises Rosas | |
 | 6 Dec 2024 | Melisa Carrasco McCaul | |
 
 
