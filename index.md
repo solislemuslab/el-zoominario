@@ -54,8 +54,8 @@ Below is the full list of El Zoominario speakers, but the talks are separated by
 | 2 Feb 2024 | ![](assets/pics/flags/mexico.png) | Hector Baños | Mathematics and DNA | [![youtube (653k)](assets/icons16/youtube.png)](https://youtu.be/eFrYzc3G0Wg) | | |
 | 5 Apr 2024 | ![](assets/pics/flags/colombia.png) | Juan Caicedo | Recognizing cellular activity with microscopy imaging | [![youtube (653k)](assets/icons16/youtube.png)](https://youtu.be/Br8BgmE_B2k) | | |
 | 3 May 2024 | Rene Welch | |
-| 6 Sep 2024 | Gustavo Ballen | |
-| 4 Oct 2024 |  | |
+| 6 Sep 2024 |  | |
+| 4 Oct 2024 | Gustavo Ballen | |
 | 1 Nov 2024 | Ulises Rosas | |
 | 6 Dec 2024 | Melisa Carrasco McCaul | |
 
