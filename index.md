@@ -58,6 +58,7 @@ Below is the full list of El Zoominario speakers, but the talks are separated by
 | 4 Oct 2024 | Gustavo Ballen | |
 | 1 Nov 2024 | Ulises Rosas | |
 | 6 Dec 2024 | Melisa Carrasco McCaul | |
+| 7 Feb 2025 | Tanya Pamela Garcia | |
 
 
 # FAQ
