@@ -60,6 +60,8 @@ Below is the full list of El Zoominario speakers, but the talks are separated by
 | 6 Dec 2024 | Johny Uelmen | |
 | 7 Feb 2025 | Tanya Pamela Garcia | |
 | 2 May 2025 | Horacio Lopez-Nicora | |
+| 5 Sept 2025| Violeta Matus-Acuña | |
+| 7 Nov 2025 | Gustavo Caballero-Flores | |
 | 5 Dec 2025 | Alejandra Avalos | |
 
 
