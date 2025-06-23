@@ -71,7 +71,7 @@ Below is the full list of El Zoominario speakers, but the talks are separated by
 It is a seminar series of scientific short talks (in English) to highlight the Latinx experience in STEM. The goal is to increase visibility of diversity in STEM and inspire the next generation of  scientists. The talks are open to all and are meant to be accessible to the general audience.
 
 **What is the format of the talks?**
-The talks are 15-20 minutes long of a scientific topic explained in accessible terms to a broad audience. At the end of the talk, the speaker chooses to share interesting facts about their Latinx culture.
+The talks are 15-20 minutes long of a scientific topic explained in accessible terms to a broad audience. At the end of the talk, the speaker shares interesting facts about Latinx culture and experience.
 
 **How can I watch?**
 Currently, live attendance is restricted to people at UW-Madison and close collaborators. Anybody can watch the recorded talks in the [youtube channel](https://www.youtube.com/playlist?list=PL1AfUDnwvYbOA9rfrvyA2nR9SR0VYbklx).
@@ -84,7 +84,7 @@ Currently, we do not have the time to guarantee that all comments will be polite
 
 **I want to give a talk or nominate someone to give a talk?**
 Great! Please fill out [this google form](https://forms.gle/1kpZE1XrKe9YS9cHA).
-El Zoominario is open to anyone with expertise related to Latinx and Hispanic communities across the scientific spectrum. This includes individuals working in academic research, teaching, science communication, policy, or industry, as well as those in specific scientific disciplines such as biology, engineering, health sciences, environmental studies, data science, and beyond. We welcome speakers from all backgrounds whose work engages with, supports, or is informed by Latinx and Hispanic communities, perspectives, or experiences in science.
+El Zoominario is _open to anyone_ with expertise related to Latinx and Hispanic communities across the scientific spectrum. This includes individuals working in academic research, teaching, science communication, policy, or industry, as well as those in specific scientific disciplines such as biology, engineering, health sciences, environmental studies, data science, and beyond. We welcome speakers from all backgrounds whose work engages with, supports, or is informed by Latinx and Hispanic communities, perspectives, or experiences in science.
 
 # Meet the organizers
 
