@@ -9,7 +9,7 @@ has_toc: false
 # Biological/Agronomy Sciences
 
 
-| Date | Country | Speaker | Title | YouTube | TikTok | 
+| Date | Heritage | Speaker | Title | YouTube | TikTok | 
 | :---   | :--- | :--- | :---  | :--- | 
 | 4 Dec 2020 | ![](../../assets/pics/flags/mexico.png) | [Rosana Zenil-Ferguson](https://solislemuslab.github.io/el-zoominario/topics/biology/rosanazenil.html) | Impact of polyploidy and biome on fern diversification |[![youtube (653k)](../../assets/icons16/youtube.png)](https://youtu.be/6H9z6vuKWfo) | |
 | 5 Feb 2021 | ![](../../assets/pics/flags/colombia.png) | [Helena Jaramillo-Mesa](https://solislemuslab.github.io/el-zoominario/topics/biology/helenajaramillo.html) | Unraveling protein production mechanisms in plant viruses |[![youtube (653k)](../../assets/icons16/youtube.png)](https://youtu.be/wQuC_b4iI5M) | [![tiktok (653k)](../../assets/icons16/tiktok.png)](https://www.tiktok.com/@latinxinstem/video/7081437020916124970) |

@@ -18,7 +18,7 @@ nav_order: 1
 
 Below is the full list of El Zoominario speakers, but the talks are separated by topic in the left menu.
 
-| Date | Country | Speaker | Title | YouTube | TikTok | TikTok intro |
+| Date | Heritage | Speaker | Title | YouTube | TikTok | TikTok intro |
 | :---   | :--- | :--- | :---  | :--- | :--- |
 | 2 Oct 2020 | ![](assets/pics/flags/mexico.png) | Daniel Pimentel-Alarcon | Machine-learning, inside the black-box  |[![youtube (653k)](assets/icons16/youtube.png)](https://youtu.be/W1zxOj6895I) | [![tiktok (653k)](assets/icons16/tiktok.png)](https://www.tiktok.com/@latinxinstem/video/7081420036396649771) | |
 | 6 Nov 2020 | ![](assets/pics/flags/mexico.png) | Jose Alonso Solis-Lemus | Supporting 2 patients with 1 ventilator |[![youtube (653k)](assets/icons16/youtube.png)](https://youtu.be/MeFT0wUmkvw) | [![tiktok (653k)](assets/icons16/tiktok.png)](https://www.tiktok.com/@latinxinstem/video/7081432005249977646) | |
@@ -68,7 +68,7 @@ Below is the full list of El Zoominario speakers, but the talks are separated by
 # FAQ
 
 **What is El Zoominario?**
-It is a seminar series of scientific short talks (in English) given by Latinx in STEM. The goal is to increase visibility of Latinx people in STEM and inspire the next generation of Latinx scientists. The talks are meant to be accessible to the general audience.
+It is a seminar series of scientific short talks (in English) to highlight the Latinx experience in STEM. The goal is to increase visibility of diversity in STEM and inspire the next generation of  scientists. The talks are open to all and are meant to be accessible to the general audience.
 
 **What is the format of the talks?**
 The talks are 15-20 minutes long of a scientific topic explained in accessible terms to a broad audience. At the end of the talk, the speaker chooses to share interesting facts about their Latinx culture.
@@ -84,6 +84,7 @@ Currently, we do not have the time to guarantee that all comments will be polite
 
 **I want to give a talk or nominate someone to give a talk?**
 Great! Please fill out [this google form](https://forms.gle/1kpZE1XrKe9YS9cHA).
+El Zoominario is open to anyone with expertise related to Latinx and Hispanic communities across the scientific spectrum. This includes individuals working in academic research, teaching, science communication, policy, or industry, as well as those in specific scientific disciplines such as biology, engineering, health sciences, environmental studies, data science, and beyond. We welcome speakers from all backgrounds whose work engages with, supports, or is informed by Latinx and Hispanic communities, perspectives, or experiences in science.
 
 # Meet the organizers
 
