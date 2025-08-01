@@ -57,12 +57,10 @@ Below is the full list of El Zoominario speakers, but the talks are separated by
 | 6 Sep 2024 | Alejandra Quintos | |
 | 4 Oct 2024 | Gustavo Ballen | |
 | 1 Nov 2024 | ![](assets/pics/flags/peru.png) | Ulises Rosas | Reducing the size of input data for phylogenetic network inference | [![youtube (653k)](assets/icons16/youtube.png)](https://youtu.be/fwwA8s8ohBY) | | |
-| 6 Dec 2024 | Johny Uelmen | |
+| 6 Dec 2024 | ![](assets/pics/flags/mexico.png) | Johny Uelmen | How Does Planetary and Wildlife Health Affect Human Health? | [![youtube (653k)](assets/icons16/youtube.png)](https://youtu.be/1eLPNQrqp6U) | | |
 | 7 Feb 2025 | Tanya Pamela Garcia | |
 | 2 May 2025 | Horacio Lopez-Nicora | |
-| 5 Sept 2025| Violeta Matus-Acuña | |
-| 7 Nov 2025 | Gustavo Caballero-Flores | |
-| 5 Dec 2025 | Alejandra Avalos | |
+
 
 
 # FAQ
