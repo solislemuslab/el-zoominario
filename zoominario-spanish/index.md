@@ -14,16 +14,17 @@ has_toc: false
 
 <div style="text-align:center"><img src="../assets/pics/logo.png" width="450"/></div>
 
-We are excited to launch El Zoominario (Spanish edition) in Fall 2025! Talks are in Spanish and anyone can present in their research seminar (STEAM)!
+We are excited to launch El Zoominario (Spanish edition) in Fall 2025! Talks are in Spanish and anyone can present in their work in STEAM!
 
-You can also check out the initial version of El Zoominario (English edition)! Information (and all recorded talks) on the left menu.
+You can also check out the initial version of El Zoominario (English edition). Information (and all recorded talks) on the left menu.
 
 Check out also other interesting seminar series in Spanish: [Science in Spanish at Cornell](https://cals.cornell.edu/school-integrative-plant-science/outreach-extension/education-programs/science-spanish) and [INFORMS en Español at Rice](https://connect.informs.org/diversity/diversity-blog/informs-espanol).
 
 
 # Schedule 
 
-| Date | Heritage | Speaker | Title | YouTube | TikTok | TikTok intro |
+| Date | Heritage | Speaker | Title | YouTube | 
+
 | :---   | :--- | :--- | :---  | :--- | :--- |
 
 
@@ -35,7 +36,7 @@ Check out also other interesting seminar series in Spanish: [Science in Spanish 
 El Zoominario is a seminar series of STEAM short talks (in Spanish). The talks are open to all and accessible to the general audience. 
 
 **What is the format of the talks?**
-The talks were 15-20 minutes long of a STEAM topic explained in accessible terms to a broad audience. 
+The talks were 15-20 minutes long of a STEAM topic explained in Spanish in accessible terms to a broad audience. 
 
 **How can I watch?**
 Anybody can watch the recorded talks in the [youtube channel](https://www.youtube.com/playlist?list=PL1AfUDnwvYbNGaKgC7kA-5dWDVDnvZnIv).

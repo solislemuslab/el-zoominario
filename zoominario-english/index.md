@@ -14,7 +14,7 @@ has_toc: false
 
 <div style="text-align:center"><img src="../assets/pics/logo.png" width="450"/></div>
 
-El Zoominario v1.0 was a seminar series that ran from October 2020 to May 2025 with scientific talks in English for general audiences given by members of the Latinx community. This initial series has been paused for now as we are organizing El Zoominario v2.0 with talks in Spanish! 
+El Zoominario v1.0 was a seminar series that ran from October 2020 to May 2025 with scientific talks in English for general audiences given by members of the Latinx community. This initial series has been paused for now as we are organizing El Zoominario v2.0 with talks in Spanish! See the left menu for more information.
 
 Thank you to all the speakers and attendees to this seminar! Hope to continue to engage the community with the new version of the seminar, and we will post here if/when we resume talks in English!
 
