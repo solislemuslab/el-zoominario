@@ -2,6 +2,7 @@
 layout: default
 title: Data Sciences
 nav_order: 2
+parent: Topics
 has_children: true
 has_toc: false
 ---

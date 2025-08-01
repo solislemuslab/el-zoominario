@@ -2,6 +2,7 @@
 layout: default
 title: Medical Sciences
 nav_order: 5
+parent: Topics
 has_children: true
 has_toc: false
 ---

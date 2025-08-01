@@ -2,6 +2,7 @@
 layout: default
 title: Physical Sciences
 nav_order: 6
+parent: Topics
 has_children: true
 has_toc: false
 ---
