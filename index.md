@@ -56,7 +56,7 @@ Below is the full list of El Zoominario speakers, but the talks are separated by
 | 3 May 2024 | Rene Welch | |
 | 6 Sep 2024 | Alejandra Quintos | |
 | 4 Oct 2024 | Gustavo Ballen | |
-| 1 Nov 2024 | Ulises Rosas | |
+| 1 Nov 2024 | ![](assets/pics/flags/peru.png) | Ulises Rosas | Reducing the size of input data for phylogenetic network inference | [![youtube (653k)](assets/icons16/youtube.png)](https://youtu.be/fwwA8s8ohBY) | | |
 | 6 Dec 2024 | Johny Uelmen | |
 | 7 Feb 2025 | Tanya Pamela Garcia | |
 | 2 May 2025 | Horacio Lopez-Nicora | |
