@@ -4,19 +4,23 @@ title: El Zoominario English
 nav_order: 2
 ---
 
-# El Zoominario
+# El Zoominario (v1.0 in English)
 
 <button type="button" onclick="window.location.href='#schedule';">schedule</button>
 <button type="button" onclick="window.location.href='#faq';">FAQ</button>
-<button type="button" onclick="window.location.href='https://www.tiktok.com/@latinxinstem';">tiktok</button>
 <button type="button" onclick="window.location.href='https://www.youtube.com/playlist?list=PL1AfUDnwvYbOA9rfrvyA2nR9SR0VYbklx';">youtube</button>
 
 
 <div style="text-align:center"><img src="../assets/pics/Black-with-Ellipse.png" width="450"/></div>
 
+El Zoominario v1.0 was a seminar series that ran from October 2020 to May 2025 with scientific talks in English for general audiences given by members of the Latinx community. This initial series has been paused for now as we are organizing El Zoominario v2.0 with talks in Spanish! 
+
+Thank you to all the speakers and attendees to this seminar! Hope to continue to engage the community with the new version of the seminar, and we will post here if/when we resume talks in English!
+
+
 # Schedule 
 
-Below is the full list of El Zoominario speakers, but the talks are separated by topic in the left menu.
+Below is the full list of El Zoominario (v1.0) speakers. The talks are also separated by topic in the left menu.
 
 | Date | Heritage | Speaker | Title | YouTube | TikTok | TikTok intro |
 | :---   | :--- | :--- | :---  | :--- | :--- |
@@ -54,35 +58,34 @@ Below is the full list of El Zoominario speakers, but the talks are separated by
 | 2 Feb 2024 | ![](../assets/pics/flags/mexico.png) | Hector Baños | Mathematics and DNA | [![youtube (653k)](../assets/icons16/youtube.png)](https://youtu.be/eFrYzc3G0Wg) | | |
 | 5 Apr 2024 | ![](../assets/pics/flags/colombia.png) | Juan Caicedo | Recognizing cellular activity with microscopy imaging | [![youtube (653k)](../assets/icons16/youtube.png)](https://youtu.be/Br8BgmE_B2k) | | |
 | 3 May 2024 | ![](../assets/pics/flags/mexico.png) | Rene Welch | What can we learn from farm kids' immune system when studying house dust microbiome? | [![youtube (653k)](../assets/icons16/youtube.png)](https://youtu.be/FpR52kSS9kM) | | |
-| 6 Sep 2024 | Alejandra Quintos | |
-| 4 Oct 2024 | Gustavo Ballen | |
+| 6 Sep 2024 | Alejandra Quintos | [video to be posted soon] |
+| 4 Oct 2024 | Gustavo Ballen | [video to be posted soon] |
 | 1 Nov 2024 | ![](../assets/pics/flags/peru.png) | Ulises Rosas | Reducing the size of input data for phylogenetic network inference | [![youtube (653k)](../assets/icons16/youtube.png)](https://youtu.be/fwwA8s8ohBY) | | |
 | 6 Dec 2024 | ![](../assets/pics/flags/mexico.png) | Johny Uelmen | How Does Planetary and Wildlife Health Affect Human Health? | [![youtube (653k)](../assets/icons16/youtube.png)](https://youtu.be/1eLPNQrqp6U) | | |
 | 7 Feb 2025 | ![](../assets/pics/flags/colombia.png) | Tanya Pamela Garcia | Establishing the Parallels and Differences Between Right-Censored Covariates and Missing Covariates: Lessons from Huntington Disease | [![youtube (653k)](../assets/icons16/youtube.png)](https://youtu.be/1GAEDDhajRg) | | |
-| 2 May 2025 | Horacio Lopez-Nicora | |
+| 2 May 2025 | Horacio Lopez-Nicora | [video to be posted soon] |
 
 
 
 # FAQ
 
 **What is El Zoominario?**
-It is a seminar series of scientific short talks (in English) to highlight the Latinx experience in STEM. The goal is to increase visibility of diversity in STEM and inspire the next generation of  scientists. The talks are open to all and are meant to be accessible to the general audience.
+In its initial version, El Zoominario was a seminar series of scientific short talks (in English) to highlight the Latinx experience in STEM. The goal is to increase visibility of diversity in STEM and inspire the next generation of scientists. The talks were open to all and accessible to the general audience. This seminar is no longer running as we moved on to El Zoominario v2.0 Spanish edition (see left menu for more details).
 
 **What is the format of the talks?**
-The talks are 15-20 minutes long of a scientific topic explained in accessible terms to a broad audience. At the end of the talk, the speaker shares interesting facts about Latinx culture and experience.
+The talks were 15-20 minutes long of a scientific topic explained in accessible terms to a broad audience. At the end of the talk, the speaker shares interesting facts about Latinx culture and experience.
 
 **How can I watch?**
-Currently, live attendance is restricted to people at UW-Madison and close collaborators. Anybody can watch the recorded talks in the [youtube channel](https://www.youtube.com/playlist?list=PL1AfUDnwvYbOA9rfrvyA2nR9SR0VYbklx).
+Anybody can watch the recorded talks in the [youtube channel](https://www.youtube.com/playlist?list=PL1AfUDnwvYbOA9rfrvyA2nR9SR0VYbklx).
 
-**I am at UW-Madison, how can I watch the talks live?**
-You need to join the UW google group "el-zoominario" (or email me) to be added to the mailing list. Emails to the group will contain login information.
+**I am at UW-Madison, can I watch the talks live?**
+We are no longer organizing live talks for this seminar, but you can join the UW google group "el-zoominario" to be added to the mailing list in order to receive news.
 
 **Why are the youtube comments disabled?**
 Currently, we do not have the time to guarantee that all comments will be polite, respectful and family-friendly. Since we want to make these talks accessible to any audience, we prefer to block comments for now.
 
 **I want to give a talk or nominate someone to give a talk?**
-Great! Please fill out [this google form](https://forms.gle/1kpZE1XrKe9YS9cHA).
-El Zoominario is _open to anyone_ with expertise related to Latinx and Hispanic communities across the scientific spectrum. This includes individuals working in academic research, teaching, science communication, policy, or industry, as well as those in specific scientific disciplines such as biology, engineering, health sciences, environmental studies, data science, and beyond. We welcome speakers from all backgrounds whose work engages with, supports, or is informed by Latinx and Hispanic communities, perspectives, or experiences in science.
+We are no longer organizing talks for this version of the seminar, but if you want to participate in the new version of El Zoominario (Spanish edition), please check out the menu on the left.
 
 # Meet the organizers
 
