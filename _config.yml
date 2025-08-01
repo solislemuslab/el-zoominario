@@ -1,5 +1,6 @@
 remote_theme: just-the-docs/just-the-docs
 title: El Zoominario
+logo: /assets/pics/logo.png
 exclude:
    - README.md
 aux_links:
