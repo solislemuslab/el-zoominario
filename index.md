@@ -53,7 +53,7 @@ Below is the full list of El Zoominario speakers, but the talks are separated by
 | 3 Nov 2023 | ![](assets/pics/flags/mexico.png) | Lluvia Flores-Renteria | Plants withour borders: Genetic connectivity in ecologically and culturally important plants | [![youtube (653k)](assets/icons16/youtube.png)](https://youtu.be/lWHXxcGy0OM) | | |
 | 2 Feb 2024 | ![](assets/pics/flags/mexico.png) | Hector Baños | Mathematics and DNA | [![youtube (653k)](assets/icons16/youtube.png)](https://youtu.be/eFrYzc3G0Wg) | | |
 | 5 Apr 2024 | ![](assets/pics/flags/colombia.png) | Juan Caicedo | Recognizing cellular activity with microscopy imaging | [![youtube (653k)](assets/icons16/youtube.png)](https://youtu.be/Br8BgmE_B2k) | | |
-| 3 May 2024 | Rene Welch | |
+| 3 May 2024 | ![](assets/pics/flags/mexico.png) | Rene Welch | What can we learn from farm kids' immune system when studying house dust microbiome? | [![youtube (653k)](assets/icons16/youtube.png)](https://youtu.be/FpR52kSS9kM) | | |
 | 6 Sep 2024 | Alejandra Quintos | |
 | 4 Oct 2024 | Gustavo Ballen | |
 | 1 Nov 2024 | ![](assets/pics/flags/peru.png) | Ulises Rosas | Reducing the size of input data for phylogenetic network inference | [![youtube (653k)](assets/icons16/youtube.png)](https://youtu.be/fwwA8s8ohBY) | | |
