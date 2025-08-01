@@ -23,9 +23,8 @@ Check out also other interesting seminar series in Spanish: [Science in Spanish 
 
 # Schedule 
 
-| Date | Heritage | Speaker | Title | YouTube | 
+| Date | Speaker | Title | YouTube | 
 
-| :---   | :--- | :--- | :---  | :--- | :--- |
 
 
 
@@ -36,7 +35,7 @@ Check out also other interesting seminar series in Spanish: [Science in Spanish 
 El Zoominario is a seminar series of STEAM short talks (in Spanish). The talks are open to all and accessible to the general audience. 
 
 **What is the format of the talks?**
-The talks were 15-20 minutes long of a STEAM topic explained in Spanish in accessible terms to a broad audience. 
+The talks were 15-30 minutes long of a STEAM topic explained in Spanish in accessible terms to a broad audience. 
 
 **How can I watch?**
 Anybody can watch the recorded talks in the [youtube channel](https://www.youtube.com/playlist?list=PL1AfUDnwvYbNGaKgC7kA-5dWDVDnvZnIv).
