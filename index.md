@@ -12,7 +12,7 @@ nav_order: 1
 <button type="button" onclick="window.location.href='https://www.youtube.com/playlist?list=PL1AfUDnwvYbOA9rfrvyA2nR9SR0VYbklx';">youtube</button>
 
 
-<div style="text-align:center"><img src="assets/pics/Black-with-Ellipse.png" width="450"/></div>
+<div style="text-align:center"><img src="assets/pics/logo.png" width="450"/></div>
 
 # Schedule 
 

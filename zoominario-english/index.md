@@ -2,6 +2,7 @@
 layout: default
 title: El Zoominario English
 nav_order: 2
+has_toc: false
 ---
 
 # El Zoominario (v1.0 in English)
@@ -11,7 +12,7 @@ nav_order: 2
 <button type="button" onclick="window.location.href='https://www.youtube.com/playlist?list=PL1AfUDnwvYbOA9rfrvyA2nR9SR0VYbklx';">youtube</button>
 
 
-<div style="text-align:center"><img src="../assets/pics/Black-with-Ellipse.png" width="450"/></div>
+<div style="text-align:center"><img src="../assets/pics/logo.png" width="450"/></div>
 
 El Zoominario v1.0 was a seminar series that ran from October 2020 to May 2025 with scientific talks in English for general audiences given by members of the Latinx community. This initial series has been paused for now as we are organizing El Zoominario v2.0 with talks in Spanish! 
 
