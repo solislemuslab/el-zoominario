@@ -6,9 +6,11 @@ nav_order: 1
 
 # El Zoominario
 
-El Zoominario is a seminar series to disseminate science among general audiences. All videos are recorded and posted on YouTube. This seminar series has two versions:
+El Zoominario is a seminar series to disseminate science among general audiences. All videos are recorded and posted on YouTube. 
 
-- El Zoominario (English edition) which ran from October 2020 to May 2025 with 40 scientific short talks (in English) to highlight the Latinx experience in STEM. This seminar is no longer running, but you can watch all recorded talks in the [YouTube channel](https://www.youtube.com/playlist?list=PL1AfUDnwvYbOA9rfrvyA2nR9SR0VYbklx).
+This seminar series has two seasons:
+
+- El Zoominario (English edition) which ran from October 2020 to May 2025 with 40 scientific short talks (in English) to share the Latinx experience in STEM. This seminar is no longer running, but you can watch all recorded talks in the [YouTube channel](https://www.youtube.com/playlist?list=PL1AfUDnwvYbOA9rfrvyA2nR9SR0VYbklx).
 
 - El Zoominario (Spanish edition) which will start in September 2025 with STEAM talks in Spanish. Anyone can present in this seminar and talks will also be recorded and available in the [YouTube channel](https://www.youtube.com/playlist?list=PL1AfUDnwvYbNGaKgC7kA-5dWDVDnvZnIv).
 
