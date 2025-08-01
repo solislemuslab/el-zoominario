@@ -1,7 +1,7 @@
 ---
 layout: default
 title: El Zoominario English
-nav_order: 1
+nav_order: 2
 ---
 
 # El Zoominario
