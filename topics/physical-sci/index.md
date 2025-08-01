@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Physical Sciences
-parent: Topics
+parent: El Zoominario English
 has_toc: false
 ---
 

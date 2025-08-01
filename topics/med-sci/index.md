@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Medical Sciences
-parent: Topics
+parent: El Zoominario English
 has_toc: false
 ---
 
