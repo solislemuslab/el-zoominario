@@ -2,7 +2,7 @@
 layout: default
 title: Plants without Borders
 parent: Bio/Agro Sciences
-nav_order: 4
+nav_order: 10
 ---
 
 # Plants withour borders: Genetic connectivity in ecologically and culturally important plants

@@ -2,7 +2,7 @@
 layout: default
 title: Simulating HIV epidemics
 parent: Data Sciences
-nav_order: 2
+nav_order: 4
 ---
 
 # Simulation framework for HIV epidemics

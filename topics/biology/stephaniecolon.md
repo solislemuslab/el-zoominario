@@ -2,7 +2,7 @@
 layout: default
 title: Looking for the Origin of Life
 parent: Bio/Agro Sciences
-nav_order: 4
+nav_order: 16
 ---
 
 # Looking for life: A quest into the Origins of life and Astrobiology

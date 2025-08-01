@@ -2,7 +2,7 @@
 layout: default
 title: What makes potatoes sick?
 parent: Bio/Agro Sciences
-nav_order: 4
+nav_order: 8
 ---
 
 # What makes potatoes sick?

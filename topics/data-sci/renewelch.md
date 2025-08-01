@@ -2,7 +2,7 @@
 layout: default
 title: Farm kids microbiome
 parent: Data Sciences
-nav_order: 2
+nav_order: 7
 ---
 
 # Farm kids microbiome

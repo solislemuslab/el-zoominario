@@ -2,7 +2,7 @@
 layout: default
 title: Censored and Missing Variables
 parent: Data Sciences
-nav_order: 2
+nav_order: 8
 ---
 
 # Censored and Missing Variables

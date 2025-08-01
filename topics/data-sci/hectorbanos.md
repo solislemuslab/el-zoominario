@@ -2,7 +2,7 @@
 layout: default
 title: Mathematics and DNA
 parent: Data Sciences
-nav_order: 2
+nav_order: 5
 ---
 
 # Mathematics and DNA

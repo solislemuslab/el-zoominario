@@ -2,7 +2,7 @@
 layout: default
 title: Fungi and Climate Change
 parent: Bio/Agro Sciences
-nav_order: 4
+nav_order: 1
 ---
 
 # Fungal responses to climate change and consequences to our ecosystems

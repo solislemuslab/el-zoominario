@@ -2,7 +2,7 @@
 layout: default
 title: Ants farming Fungi
 parent: Bio/Agro Sciences
-nav_order: 4
+nav_order: 14
 ---
 
 # Fungi and fungus-farming insects: friends and enemies

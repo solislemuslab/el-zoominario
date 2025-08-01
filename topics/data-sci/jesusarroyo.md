@@ -2,7 +2,7 @@
 layout: default
 title: Brain Networks
 parent: Data Sciences
-nav_order: 2
+nav_order: 6
 ---
 
 # Finding structure in brain networks

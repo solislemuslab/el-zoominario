@@ -2,7 +2,7 @@
 layout: default
 title: Compact Genomes in Virus
 parent: Bio/Agro Sciences
-nav_order: 4
+nav_order: 9
 ---
 
 # Less Is More: How Viruses Evolve Compact Genomes

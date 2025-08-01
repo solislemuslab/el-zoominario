@@ -2,7 +2,7 @@
 layout: default
 title: Cellular Activity with Microscopy
 parent: Math/Engineering
-nav_order: 3
+nav_order: 4
 ---
 
 # Recognizing Cellular Activity with Microscopy Imaging

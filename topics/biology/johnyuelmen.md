@@ -2,7 +2,7 @@
 layout: default
 title: Planet and Human health
 parent: Bio/Agro Sciences
-nav_order: 4
+nav_order: 7
 ---
 
 # Planet and Human health

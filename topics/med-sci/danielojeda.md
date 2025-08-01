@@ -2,7 +2,7 @@
 layout: default
 title: Neurodegenerative Diseases
 parent: Medical Sciences
-nav_order: 5
+nav_order: 1
 ---
 
 # Understanding neurodegenerative diseases: From Alzheimer's to Mad Cow Disease

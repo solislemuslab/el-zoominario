@@ -2,7 +2,7 @@
 layout: default
 title: Nanoscale Wood and Water
 parent: Math/Engineering
-nav_order: 3
+nav_order: 5
 ---
 
 # Elucidating the nanoscale interactions between wood and water

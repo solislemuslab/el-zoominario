@@ -2,7 +2,7 @@
 layout: default
 title: Gut microbes and cardiometabolic health
 parent: Medical Sciences
-nav_order: 5
+nav_order: 2
 ---
 
 # Gut microbes and cardiometabolic health

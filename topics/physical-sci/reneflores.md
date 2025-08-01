@@ -2,7 +2,7 @@
 layout: default
 title: Emulating a Pulsar in BRB
 parent: Physical Sciences
-nav_order: 6
+nav_order: 2
 ---
 
 # Emulating a Pulsar in BRB

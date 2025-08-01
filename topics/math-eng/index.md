@@ -1,9 +1,7 @@
 ---
 layout: default
 title: Math/Engineering
-nav_order: 3
 parent: Topics
-has_children: true
 has_toc: false
 ---
 

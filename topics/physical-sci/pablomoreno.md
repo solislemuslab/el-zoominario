@@ -2,7 +2,7 @@
 layout: default
 title: Volcanoes and Glaciation
 parent: Physical Sciences
-nav_order: 6
+nav_order: 1
 ---
 
 # How do volcanoes respond to glaciation?

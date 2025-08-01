@@ -2,7 +2,7 @@
 layout: default
 title: Data Detectives
 parent: El Zoominarito
-nav_order: 7
+nav_order: 1
 ---
 
 # Statisticians are the Data Detectives of the XXI Century

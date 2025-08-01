@@ -2,7 +2,7 @@
 layout: default
 title: Engineering a Vascular Graft
 parent: Math/Engineering
-nav_order: 3
+nav_order: 1
 ---
 
 # Engineering a small diameter vascular graft

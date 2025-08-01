@@ -2,7 +2,7 @@
 layout: default
 title: Plants and Herbivorous Insects
 parent: Bio/Agro Sciences
-nav_order: 4
+nav_order: 3
 ---
 
 # Ecological implications of host plant quality for herbivorous insects

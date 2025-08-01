@@ -2,7 +2,7 @@
 layout: default
 title: Organic Tomato Breeding
 parent: Bio/Agro Sciences
-nav_order: 4
+nav_order: 2
 ---
 
 # Organic tomato breeding, improving flavor, yields, and disease resistance

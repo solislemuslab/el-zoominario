@@ -2,7 +2,7 @@
 layout: default
 title: Record Linkage
 parent: Data Sciences
-nav_order: 2
+nav_order: 1
 ---
 
 # Introduction to record linkage and its applications

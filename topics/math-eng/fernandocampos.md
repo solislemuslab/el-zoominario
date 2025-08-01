@@ -2,7 +2,7 @@
 layout: default
 title: Computer Simulations for Cardiac Arrhythmias
 parent: Math/Engineering
-nav_order: 3
+nav_order: 2
 ---
 
 # Hasta la vista, baby! Terminating Cardiac Arrhythmias with Computer Simulations

@@ -2,7 +2,7 @@
 layout: default
 title: Machine learning
 parent: Data Sciences
-nav_order: 2
+nav_order: 3
 ---
 
 # Machine-learning, inside the black-box

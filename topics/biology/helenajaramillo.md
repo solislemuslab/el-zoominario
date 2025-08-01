@@ -2,7 +2,7 @@
 layout: default
 title: Proteins in Plant Viruses
 parent: Bio/Agro Sciences
-nav_order: 4
+nav_order: 6
 ---
 
 # Unraveling protein production mechanisms in plant viruses

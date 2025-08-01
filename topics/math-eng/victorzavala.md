@@ -2,7 +2,7 @@
 layout: default
 title: Sustainability in Dairy Industry
 parent: Math/Engineering
-nav_order: 3
+nav_order: 6
 ---
 
 # Sustainability Challenges in the Dairy Industry

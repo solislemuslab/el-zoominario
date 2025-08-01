@@ -2,7 +2,7 @@
 layout: default
 title: Archaea Microbial Architects
 parent: Bio/Agro Sciences
-nav_order: 4
+nav_order: 12
 ---
 
 # Archaea: Earth's Ancient Microbial Architects
