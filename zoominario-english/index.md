@@ -7,7 +7,7 @@ has_toc: false
 
 # El Zoominario (v1.0 in English)
 
-<button type="button" onclick="window.location.href='#schedule';">schedule</button>
+<button type="button" onclick="window.location.href='#talks';">talks</button>
 <button type="button" onclick="window.location.href='#faq';">FAQ</button>
 <button type="button" onclick="window.location.href='https://www.youtube.com/playlist?list=PL1AfUDnwvYbOA9rfrvyA2nR9SR0VYbklx';">youtube</button>
 
@@ -19,7 +19,7 @@ El Zoominario v1.0 was a seminar series that ran from October 2020 to May 2025 w
 Thank you to all the speakers and attendees to this seminar! Hope to continue to engage the community with the new version of the seminar, and we will post here if/when we resume talks in English!
 
 
-# Schedule 
+# Talks 
 
 Below is the full list of El Zoominario (v1.0) speakers. The talks are also separated by topic in the left menu.
 

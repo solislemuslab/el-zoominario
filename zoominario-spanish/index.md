@@ -9,47 +9,45 @@ has_toc: false
 
 <button type="button" onclick="window.location.href='#schedule';">schedule</button>
 <button type="button" onclick="window.location.href='#faq';">FAQ</button>
-<button type="button" onclick="window.location.href='https://www.youtube.com/playlist?list=PL1AfUDnwvYbOA9rfrvyA2nR9SR0VYbklx';">youtube</button>
+<button type="button" onclick="window.location.href='https://www.youtube.com/playlist?list=PL1AfUDnwvYbNGaKgC7kA-5dWDVDnvZnIv';">youtube</button>
 
 
 <div style="text-align:center"><img src="../assets/pics/logo.png" width="450"/></div>
 
-El Zoominario v1.0 was a seminar series that ran from October 2020 to May 2025 with scientific talks in English for general audiences given by members of the Latinx community. This initial series has been paused for now as we are organizing El Zoominario v2.0 with talks in Spanish! 
+We are excited to launch El Zoominario (Spanish edition) in Fall 2025! Talks are in Spanish and anyone can present in their research seminar (STEAM)!
 
-Thank you to all the speakers and attendees to this seminar! Hope to continue to engage the community with the new version of the seminar, and we will post here if/when we resume talks in English!
+You can also check out the initial version of El Zoominario (English edition)! Information (and all recorded talks) on the left menu.
+
+Check out also other interesting seminar series in Spanish: [Science in Spanish at Cornell](https://cals.cornell.edu/school-integrative-plant-science/outreach-extension/education-programs/science-spanish) and [INFORMS en Español at Rice](https://connect.informs.org/diversity/diversity-blog/informs-espanol).
 
 
 # Schedule 
 
-Below is the full list of El Zoominario (v1.0) speakers. The talks are also separated by topic in the left menu.
-
 | Date | Heritage | Speaker | Title | YouTube | TikTok | TikTok intro |
 | :---   | :--- | :--- | :---  | :--- | :--- |
-| 5 Sept 2025| Violeta Matus-Acuña | |
-| 7 Nov 2025 | Gustavo Caballero-Flores | |
-| 5 Dec 2025 | Alejandra Avalos | |
+
 
 
 
 # FAQ
 
-**What is El Zoominario?**
-In its initial version, El Zoominario was a seminar series of scientific short talks (in English) to highlight the Latinx experience in STEM. The goal is to increase visibility of diversity in STEM and inspire the next generation of scientists. The talks were open to all and accessible to the general audience. This seminar is no longer running as we moved on to El Zoominario v2.0 Spanish edition (see left menu for more details).
+**What is El Zoominario (Spanish edition)?**
+El Zoominario is a seminar series of STEAM short talks (in Spanish). The talks are open to all and accessible to the general audience. 
 
 **What is the format of the talks?**
-The talks were 15-20 minutes long of a scientific topic explained in accessible terms to a broad audience. At the end of the talk, the speaker shares interesting facts about Latinx culture and experience.
+The talks were 15-20 minutes long of a STEAM topic explained in accessible terms to a broad audience. 
 
 **How can I watch?**
-Anybody can watch the recorded talks in the [youtube channel](https://www.youtube.com/playlist?list=PL1AfUDnwvYbOA9rfrvyA2nR9SR0VYbklx).
+Anybody can watch the recorded talks in the [youtube channel](https://www.youtube.com/playlist?list=PL1AfUDnwvYbNGaKgC7kA-5dWDVDnvZnIv).
 
 **I am at UW-Madison, can I watch the talks live?**
-We are no longer organizing live talks for this seminar, but you can join the UW google group "el-zoominario" to be added to the mailing list in order to receive news.
+We are not organizing live talks for this seminar, but you can join the UW google group "el-zoominario" to be added to the mailing list in order to receive news.
 
 **Why are the youtube comments disabled?**
 Currently, we do not have the time to guarantee that all comments will be polite, respectful and family-friendly. Since we want to make these talks accessible to any audience, we prefer to block comments for now.
 
 **I want to give a talk or nominate someone to give a talk?**
-We are no longer organizing talks for this version of the seminar, but if you want to participate in the new version of El Zoominario (Spanish edition), please check out the menu on the left.
+Great! Please fill out [this google form](https://forms.gle/1kpZE1XrKe9YS9cHA). El Zoominario is open to anyone interested in presenting their work in Spanish.
 
 # Meet the organizers
 
