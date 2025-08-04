@@ -31,7 +31,7 @@ Check out also other interesting seminar series in Spanish: [Science in Spanish 
 | 6 Feb 2026 | Violeta Matus-Acuña | |
 | 6 Mar 2026 | Colleen Conroy
 | 3 Apr 2026 | Karen Schloss
-
+| 1 May 2026 | Degi Dugarjav
 
 
 
