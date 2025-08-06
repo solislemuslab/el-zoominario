@@ -26,9 +26,9 @@ Check out also other interesting seminar series in Spanish: [Science in Spanish 
 | Date | Speaker | Title | YouTube | 
 | 5 Sept 2025 | Vivak Patel | |
 | 3 Oct 2025 | Keith Levin | |
-| 7 Nov 2025 | Gustavo Caballero-Flores | |
+| 7 Nov 2025 | Violeta Matus-Acuña | |
 | 5 Dec 2025 | Alejandra Avalos | |
-| 6 Feb 2026 | Violeta Matus-Acuña | |
+| 6 Feb 2026 | Gustavo Caballero-Flores | |
 | 6 Mar 2026 | Colleen Conroy
 | 3 Apr 2026 | Karen Schloss
 | 1 May 2026 | Degi Dugarjav
