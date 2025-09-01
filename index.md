@@ -37,7 +37,7 @@ El Zoominario is _open to anyone_!
 
 # Meet the organizers
 
-Originally from Mexico City, Claudia Sol&iacute;s-Lemus is an assistant professor at the [Wisconsin Institute for Discovery](https://wid.wisc.edu/) and the [Department of Plant Pathology](https://plantpath.wisc.edu/) at the [University of Wisconsin-Madison](http://www.wisc.edu). 
+Originally from Mexico City, Claudia Sol&iacute;s-Lemus is an associate professor at the [Wisconsin Institute for Discovery](https://wid.wisc.edu/) and the [Department of Plant Pathology](https://plantpath.wisc.edu/) at the [University of Wisconsin-Madison](http://www.wisc.edu). 
 
 <div class="container">
     <div class="row">
