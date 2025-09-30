@@ -24,7 +24,7 @@ Check out also other interesting seminar series in Spanish: [Science in Spanish 
 # Schedule 
 
 | Date | Speaker | Title | YouTube | 
-| 5 Sept 2025 | Vivak Patel | |
+| 5 Sept 2025 | Vivak Patel | Computación y aleatorización | [![youtube (653k)](../assets/icons16/youtube.png)](https://youtu.be/qDTcbHL0_Og) |
 | 3 Oct 2025 | Keith Levin | |
 | 7 Nov 2025 | Violeta Matus-Acuña | |
 | 5 Dec 2025 | Alejandra Avalos | |
