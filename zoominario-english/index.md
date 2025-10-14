@@ -64,7 +64,7 @@ Below is the full list of El Zoominario (v1.0) speakers. The talks are also sepa
 | 1 Nov 2024 | ![](../assets/pics/flags/peru.png) | Ulises Rosas | Reducing the size of input data for phylogenetic network inference | [![youtube (653k)](../assets/icons16/youtube.png)](https://youtu.be/fwwA8s8ohBY) | | |
 | 6 Dec 2024 | ![](../assets/pics/flags/mexico.png) | Johny Uelmen | How Does Planetary and Wildlife Health Affect Human Health? | [![youtube (653k)](../assets/icons16/youtube.png)](https://youtu.be/1eLPNQrqp6U) | | |
 | 7 Feb 2025 | ![](../assets/pics/flags/colombia.png) | Tanya Pamela Garcia | Establishing the Parallels and Differences Between Right-Censored Covariates and Missing Covariates: Lessons from Huntington Disease | [![youtube (653k)](../assets/icons16/youtube.png)](https://youtu.be/1GAEDDhajRg) | | |
-| 2 May 2025 | Horacio Lopez-Nicora | [video to be posted soon] |
+| 2 May 2025 | ![](../assets/pics/flags/paraguay.png) | Horacio Lopez-Nicora | Data-Driven Strategies for Global Plant Health and Sustainability | [![youtube (653k)](../assets/icons16/youtube.png)](https://youtu.be/2vhtCNNYAEU) | | |
 
 
 
