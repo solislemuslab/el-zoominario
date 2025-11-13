@@ -25,8 +25,8 @@ Check out also other interesting seminar series in Spanish: [Science in Spanish 
 
 | Date | Speaker | Title | YouTube | 
 | 5 Sept 2025 | Vivak Patel | Computación y aleatorización | [![youtube (653k)](../assets/icons16/youtube.png)](https://youtu.be/qDTcbHL0_Og) |
-| 3 Oct 2025 | Keith Levin | |
-| 7 Nov 2025 | Violeta Matus-Acuña | |
+| 3 Oct 2025 | Keith Levin | Redes: la ciencia de los sistemas interconectados | [![youtube (653k)](../assets/icons16/youtube.png)](https://youtu.be/Ye1VoACJbK4) |
+| 7 Nov 2025 | Violeta Matus-Acuña | La materia orgánica en el suelo | [![youtube (653k)](../assets/icons16/youtube.png)](https://youtu.be/nDZuEd04A9o) |
 | 5 Dec 2025 | Alejandra Avalos | |
 | 6 Feb 2026 | Gustavo Caballero-Flores | |
 | 6 Mar 2026 | Colleen Conroy
