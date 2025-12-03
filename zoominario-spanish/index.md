@@ -27,7 +27,7 @@ Check out also other interesting seminar series in Spanish: [Science in Spanish 
 | 5 Sept 2025 | Vivak Patel | Computación y aleatorización | [![youtube (653k)](../assets/icons16/youtube.png)](https://youtu.be/qDTcbHL0_Og) |
 | 3 Oct 2025 | Keith Levin | Redes: la ciencia de los sistemas interconectados | [![youtube (653k)](../assets/icons16/youtube.png)](https://youtu.be/Ye1VoACJbK4) |
 | 7 Nov 2025 | Violeta Matus-Acuña | La materia orgánica en el suelo | [![youtube (653k)](../assets/icons16/youtube.png)](https://youtu.be/nDZuEd04A9o) |
-| 5 Dec 2025 | Alejandra Avalos | |
+| 5 Dec 2025 | Alejandra Avalos | Modelos transparentes para un futuro médico más seguro | [![youtube (653k)](../assets/icons16/youtube.png)](https://youtu.be/2b3l3v_7GfE) |
 | 6 Feb 2026 | Gustavo Caballero-Flores | |
 | 6 Mar 2026 | Colleen Conroy
 | 3 Apr 2026 | Karen Schloss
