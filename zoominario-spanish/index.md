@@ -32,6 +32,8 @@ Check out also other interesting seminar series in Spanish: [Science in Spanish 
 | 6 Mar 2026 | Colleen Conroy
 | 3 Apr 2026 | Karen Schloss
 | 1 May 2026 | Degi Dugarjav
+| 4 Sep 2026 | 
+| 2 Oct 2026 | Jonathan Jacobs
 
 
 
