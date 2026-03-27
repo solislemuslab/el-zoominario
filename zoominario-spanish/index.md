@@ -34,6 +34,7 @@ Check out also other interesting seminar series in Spanish: [Science in Spanish 
 | 1 May 2026 | Degi Dugarjav
 | 4 Sep 2026 | 
 | 2 Oct 2026 | Jonathan Jacobs
+| 6 Nov 2026 | Annika Pratt
 
 
 
