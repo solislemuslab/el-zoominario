@@ -18,4 +18,4 @@ You need to join the UW google group "el-zoominario" (or email me) to be added t
 Currently, we do not have the time to guarantee that all comments will be polite, respectful and family-friendly. Since we want to make these talks accessible to any audience, we prefer to block comments for now.
 
 **I want to give a talk or nominate someone to give a talk?**
-Great! Please fill out [this google form](https://forms.gle/1kpZE1XrKe9YS9cHA).
+Great! Please fill out [this google form](https://forms.gle/1kpZE1XrKe9YS9cHA). [UW non-discrimination statement](https://compliance.wisc.edu/eo-complaint/).
