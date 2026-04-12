@@ -33,7 +33,7 @@ Currently, we do not have the time to guarantee that all comments will be polite
 
 **I want to give a talk or nominate someone to give a talk?**
 Great! Please fill out [this google form](https://forms.gle/1kpZE1XrKe9YS9cHA).
-El Zoominario is _open to anyone_!
+El Zoominario is _open to anyone_! [UW non-discrimination statement](https://compliance.wisc.edu/eo-complaint/)
 
 # Meet the organizers
 
