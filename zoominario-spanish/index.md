@@ -29,7 +29,7 @@ Check out also other interesting seminar series in Spanish: [Science in Spanish 
 | 7 Nov 2025 | Violeta Matus-Acuña | La materia orgánica en el suelo | [![youtube (653k)](../assets/icons16/youtube.png)](https://youtu.be/nDZuEd04A9o) |
 | 5 Dec 2025 | Alejandra Avalos | Modelos transparentes para un futuro médico más seguro | [![youtube (653k)](../assets/icons16/youtube.png)](https://youtu.be/2b3l3v_7GfE) |
 | 6 Feb 2026 | Gustavo Caballero-Flores | Descifrando los mecanismos de la diarrea infantil utilizando modelos de animales de infección | [![youtube (653k)](../assets/icons16/youtube.png)](https://youtu.be/8H141u2BloI) |
-| 6 Mar 2026 | Colleen Conroy
+| 6 Mar 2026 | Colleen Conroy | Más que palabras: el arte de interpretar acentos | [![youtube (653k)](../assets/icons16/youtube.png)](https://youtu.be/LkhhKb2Tz44) |
 | 3 Apr 2026 | Karen Schloss
 | 1 May 2026 | Degi Dugarjav
 | 4 Sep 2026 | 
