@@ -24,17 +24,18 @@ Check out also other interesting seminar series in Spanish: [Science in Spanish 
 # Schedule 
 
 | Date | Speaker | Title | YouTube | 
-| 5 Sept 2025 | Vivak Patel | Computación y aleatorización | [![youtube (653k)](../assets/icons16/youtube.png)](https://youtu.be/qDTcbHL0_Og) |
-| 3 Oct 2025 | Keith Levin | Redes: la ciencia de los sistemas interconectados | [![youtube (653k)](../assets/icons16/youtube.png)](https://youtu.be/Ye1VoACJbK4) |
-| 7 Nov 2025 | Violeta Matus-Acuña | La materia orgánica en el suelo | [![youtube (653k)](../assets/icons16/youtube.png)](https://youtu.be/nDZuEd04A9o) |
-| 5 Dec 2025 | Alejandra Avalos | Modelos transparentes para un futuro médico más seguro | [![youtube (653k)](../assets/icons16/youtube.png)](https://youtu.be/2b3l3v_7GfE) |
-| 6 Feb 2026 | Gustavo Caballero-Flores | Descifrando los mecanismos de la diarrea infantil utilizando modelos de animales de infección | [![youtube (653k)](../assets/icons16/youtube.png)](https://youtu.be/8H141u2BloI) |
-| 6 Mar 2026 | Colleen Conroy | Más que palabras: el arte de interpretar acentos | [![youtube (653k)](../assets/icons16/youtube.png)](https://youtu.be/LkhhKb2Tz44) |
-| 3 Apr 2026 | Karen Schloss
-| 1 May 2026 | Degi Dugarjav
-| 4 Sep 2026 | 
-| 2 Oct 2026 | Jonathan Jacobs
-| 6 Nov 2026 | Annika Pratt
+| Sept 2025 | Vivak Patel | Computación y aleatorización | [![youtube (653k)](../assets/icons16/youtube.png)](https://youtu.be/qDTcbHL0_Og) |
+| Oct 2025 | Keith Levin | Redes: la ciencia de los sistemas interconectados | [![youtube (653k)](../assets/icons16/youtube.png)](https://youtu.be/Ye1VoACJbK4) |
+| Nov 2025 | Violeta Matus-Acuña | La materia orgánica en el suelo | [![youtube (653k)](../assets/icons16/youtube.png)](https://youtu.be/nDZuEd04A9o) |
+| Dec 2025 | Alejandra Avalos | Modelos transparentes para un futuro médico más seguro | [![youtube (653k)](../assets/icons16/youtube.png)](https://youtu.be/2b3l3v_7GfE) |
+| Feb 2026 | Gustavo Caballero-Flores | Descifrando los mecanismos de la diarrea infantil utilizando modelos de animales de infección | [![youtube (653k)](../assets/icons16/youtube.png)](https://youtu.be/8H141u2BloI) |
+| Mar 2026 | Colleen Conroy | Más que palabras: el arte de interpretar acentos | [![youtube (653k)](../assets/icons16/youtube.png)](https://youtu.be/LkhhKb2Tz44) |
+| Apr 2026 | Karen Schloss
+| May 2026 | Degi Dugarjav
+| Sep 2026 | 
+| Oct 2026 | Jonathan Jacobs
+| Nov 2026 | Annika Pratt
+| Dec 2026 | Nuria Ramirez Molina
 
 
 
