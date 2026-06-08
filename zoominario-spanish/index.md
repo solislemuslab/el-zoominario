@@ -37,6 +37,7 @@ Check out also other interesting seminar series in Spanish: [Science in Spanish 
 | Nov 2026 | Annika Pratt
 | Dec 2026 | Nuria Ramirez Molina
 | Jan 2027 | Pedro Romero
+| Feb 2027 | Nicole Mitidieri Rivera
 
 
 
