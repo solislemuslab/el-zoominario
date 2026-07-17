@@ -31,7 +31,7 @@ Check out also other interesting seminar series in Spanish: [Science in Spanish 
 | Feb 2026 | Gustavo Caballero-Flores | Descifrando los mecanismos de la diarrea infantil utilizando modelos de animales de infección | [![youtube (653k)](../assets/icons16/youtube.png)](https://youtu.be/8H141u2BloI) |
 | Mar 2026 | Colleen Conroy | Más que palabras: el arte de interpretar acentos | [![youtube (653k)](../assets/icons16/youtube.png)](https://youtu.be/LkhhKb2Tz44) |
 | Apr 2026 | Karen Schloss | Semántica perceptual para la comunicación visual | [![youtube (653k)](../assets/icons16/youtube.png)](https://youtu.be/y4jUluDDYM4) |
-| Sep 2026 | 
+| Sep 2026 | Andres Cumsille Montesinos
 | Oct 2026 | Jonathan Jacobs
 | Nov 2026 | Annika Pratt
 | Dec 2026 | Nuria Ramirez Molina
