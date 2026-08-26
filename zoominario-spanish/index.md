@@ -38,7 +38,9 @@ Check out also other interesting seminar series in Spanish: [Science in Spanish 
 | Jan 2027 | Pedro Romero
 | Feb 2027 | Nicole Mitidieri Rivera
 | Mar 2027 | Toryn Schafer
-
+| Abr 2027 |
+| May 2027 |
+| Sep 2027 | Josephine Putnam
 
 # FAQ
 
